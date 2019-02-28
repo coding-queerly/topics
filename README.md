@@ -2,13 +2,11 @@
 
 - Computer Science Terms Deconstructed
 
-1. https://github.com/hemanth/functional-programming-jargon
-2. 
+> https://github.com/hemanth/functional-programming-jargon
 
 - Numerial Terms Deconstructed
   - bits/bytes
-  - 
-- Programming Terms Deconstruccted
+- Programming Terms Deconstructed
     - Binding/Bound
     - Garbage Collection
     - Type(s)
@@ -19,11 +17,10 @@
       - Enum
       - Tuple
       - Buffer
-      - 
     - Interface
     - Proxy
     - Closure
-    - Partial Applicatioon
+    - Partial Application
     - Abstract
     - Algorithm
       - big o
@@ -41,10 +38,10 @@
     - Value
     - Function
     - Index
-    - Data Strructure
+    - Data Structure
       - Array
       - Tree
-      - Stacck
+      - Stack
       - Queue
       - Graph
       - Hash Table
@@ -58,7 +55,7 @@
     - Concurrency
     - Parallelism
     - Race Condition
-    - Mutex (Mututal Exlusion)
+    - Mutex (Mututal Exclusion)
     - Semaphore
     - Deadlock
     - Streams/STDIN/STDOUT/STDERR
@@ -66,6 +63,7 @@
     - Session
     - Token
     - Read/Write
+    - Infer/Inferrence
     
 - Words Deconstructed
     - Stack
@@ -99,8 +97,6 @@
     - Protocol
     - Query String
     - Record
-    - 
 - Development Style Words Deconstructed
   - Agile
   - Waterfall
-  - 
