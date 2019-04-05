@@ -97,6 +97,36 @@
   - Protocol
   - Query String
   - Record
+
 ## Development Style Words Deconstructed
   - Agile
   - Waterfall
+
+## Terminal
+### UNIX Terminal Commands
+- cat
+- sed
+- awk
+- sh/bash/zsh (shells)
+- cd
+- ls
+- sudo
+- mkdir
+- alias
+- touch
+- mv
+- history
+- find
+- cp
+
+### Software Specific Commands
+- ack/ag/rg
+- yarn/npm
+- brew
+- curl
+- npx
+- ssh
+
+### Text Editors
+- vi
+- emacs
