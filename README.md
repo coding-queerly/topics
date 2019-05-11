@@ -4,7 +4,7 @@
 
 > https://github.com/hemanth/functional-programming-jargon
 
-## Numerial Terms Deconstructed
+## Numerical Terms Deconstructed
   - bits/bytes
 ## Programming Terms Deconstructed
   - Binding/Bound
